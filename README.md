@@ -1,27 +1,27 @@
 # Full Stack FastAPI and PostgreSQL - Base Project Generator
 
-[![Build Status](https://travis-ci.org/tiangolo/full-stack-fastapi-postgresql.svg?branch=master)](https://travis-ci.org/tiangolo/full-stack-fastapi-postgresql)
+[![Build Status](https://travis-ci.org/johnbywater/es-example-full-stack-fastapi-postgresql.svg?branch=master)](https://travis-ci.org/johnbywater/es-example-full-stack-fastapi-postgresql)
 
 Generate a backend and frontend stack using Python, including interactive API documentation.
 
 ### Interactive API documentation
 
-[![API docs](img/docs.png)](https://github.com/tiangolo/full-stack-fastapi-postgresql)
+[![API docs](img/docs.png)](https://github.com/johnbywater/es-example-full-stack-fastapi-postgresql)
 
 
 ### Alternative API documentation
 
-[![API docs](img/redoc.png)](https://github.com/tiangolo/full-stack-fastapi-postgresql)
+[![API docs](img/redoc.png)](https://github.com/johnbywater/es-example-full-stack-fastapi-postgresql)
 
 
 ### Dashboard Login
 
-[![API docs](img/login.png)](https://github.com/tiangolo/full-stack-fastapi-postgresql)
+[![API docs](img/login.png)](https://github.com/johnbywater/es-example-full-stack-fastapi-postgresql)
 
 
 ### Dashboard - Create User
 
-[![API docs](img/dashboard.png)](https://github.com/tiangolo/full-stack-fastapi-postgresql)
+[![API docs](img/dashboard.png)](https://github.com/johnbywater/es-example-full-stack-fastapi-postgresql)
 
 ## Features
 
@@ -73,7 +73,7 @@ Go to the directory where you want to create your project and run:
 
 ```bash
 pip install cookiecutter
-cookiecutter https://github.com/tiangolo/full-stack-fastapi-postgresql
+cookiecutter https://github.com/johnbywater/es-example-full-stack-fastapi-postgresql
 ```
 
 ### Generate passwords
@@ -142,7 +142,7 @@ After using this generator, your new project (the directory created) will contai
 
 ## Sibling project generators
 
-* Based on Couchbase: [https://github.com/tiangolo/full-stack-fastapi-couchbase](https://github.com/tiangolo/full-stack-fastapi-couchbase).
+* Based on Couchbase: [https://github.com/johnbywater/es-example-full-stack-fastapi-couchbase](https://github.com/johnbywater/es-example-full-stack-fastapi-couchbase).
 
 ## Release Notes
 
